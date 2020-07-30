@@ -1,0 +1,32 @@
+{
+  "name": "riot-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Starkei/RiotService.git"
+  },
+  "keywords": [
+    "riot-api",
+    "riot-service",
+    "league-of-legends"
+  ],
+  "author": "Leichenok Kirill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Starkei/RiotService/issues"
+  },
+  "homepage": "https://github.com/Starkei/RiotService#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.7",
+    "@types/node": "^14.0.27",
+    "dotenv": "^8.2.0",
+    "jest": "^26.2.0",
+    "ts-jest": "^26.1.4",
+    "typescript": "^3.9.7"
+  }
+}
