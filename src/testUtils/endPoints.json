@@ -1,0 +1,8 @@
+{
+    "hostname": "https://ru.api.riotgames.com/",
+    "summonerName" : "I am Starrk",
+    "account" : "/lol/summoner/v4/summoners/by-name/{summonerName}",
+    "matchList" : "/lol/match/v4/matchlists/by-account/{encryptedAccountId}",
+    "match" : "/lol/match/v4/matches/{matchId}",
+    "matchTimeLine" : "/lol/match/v4/timelines/by-match/{matchId}"
+}

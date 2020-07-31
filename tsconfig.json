@@ -16,7 +16,7 @@
     "strictNullChecks": true,
     "strictFunctionTypes": true,
     "strictPropertyInitialization": true, 
-    
+    "resolveJsonModule": true,
     "noImplicitAny": true,
     "noImplicitThis": true,
     "noUnusedLocals": true,
